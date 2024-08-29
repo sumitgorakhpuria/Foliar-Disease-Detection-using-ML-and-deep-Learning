@@ -1,1 +1,2 @@
-# sumitgorakhpuria-sumitgorakhpuria-Foliar-Disease-Detection-using-ML-and-deep-Learning
+# Foliar-Disease-Detection-using-ML-and-deep-Learning
+Final Year project
